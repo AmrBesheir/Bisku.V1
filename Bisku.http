@@ -1,0 +1,6 @@
+@Bisku_HostAddress = http://localhost:5296
+
+GET {{Bisku_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
