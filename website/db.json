@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "fname": "ahmed",
+      "lname": "no",
+      "email": "ahmed@mail.com",
+      "phone": "010010011111",
+      "password": "12345678",
+      "city": "",
+      "country": "",
+      "street": "",
+      "zCode": "",
+      "id": 1
+    }
+  ]
+}
